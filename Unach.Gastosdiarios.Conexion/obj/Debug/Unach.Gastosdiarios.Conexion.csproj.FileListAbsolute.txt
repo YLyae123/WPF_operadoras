@@ -1,0 +1,161 @@
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll.config
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\ZstdSharp.dll
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.pdb
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vplal\OneDrive\Documentos\Sistemas de Informacion\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CopyComplete
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll.config
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\ZstdSharp.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.pdb
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.AssemblyReference.cache
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Ga.AE463400.Up2Date
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\yaelg\OneDrive\Desktop\Gastosdiarios\Gastosdiarios\Unach.Gastosdiarios\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.AssemblyReference.cache
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll.config
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\ZstdSharp.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.pdb
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.AssemblyReference.cache
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Ga.AE463400.Up2Date
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\gussy\Downloads\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll.config
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Unach.Gastosdiarios.Conexion.pdb
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\ZstdSharp.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.pdb
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Google.Protobuf.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\MySql.Data.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Buffers.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Memory.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.AssemblyReference.cache
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Ga.AE463400.Up2Date
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.dll
+C:\Users\yaelg\OneDrive\Desktop\Operadoras_Turismo\Operadoras_Turismo\Operadoras_Turismo\OperadorasChiapas\Operadoras.Chiapas\Unach.Gastosdiarios.Conexion\obj\Debug\Unach.Gastosdiarios.Conexion.pdb
