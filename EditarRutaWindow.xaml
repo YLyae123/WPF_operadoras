@@ -1,0 +1,25 @@
+﻿<Window x:Class="Unach.Gastosdiarios.WPF.EditarRutaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Editar Ruta" Height="320" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid Margin="10">
+        <StackPanel>
+            <Label Content="Id Ruta:" />
+            <TextBox Name="txtIdRuta" IsReadOnly="True" Margin="0,0,0,10"/>
+
+            <Label Content="Nombre Ruta:" />
+            <TextBox Name="txtNombreRuta" Margin="0,0,0,10"/>
+
+            <Label Content="Origen:" />
+            <TextBox Name="txtOrigen" Margin="0,0,0,10"/>
+
+            <Label Content="Destino:" />
+            <TextBox Name="txtDestino" Margin="0,0,0,10"/>
+
+            <Label Content="Id Operadora:" />
+            <TextBox Name="txtIdOperadora" Margin="0,0,0,20"/>
+
+            <Button Content="Actualizar" Height="30" Width="100" HorizontalAlignment="Center" Click="BtnActualizar_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

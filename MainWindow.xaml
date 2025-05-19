@@ -1,0 +1,67 @@
+﻿<Window x:Class="Unach.Gastosdiarios.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Sistema de Operadoras" Height="500" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Panel lateral -->
+        <StackPanel Grid.Column="0" Background="#f0f0f0" Margin="10">
+            <TextBlock Text="Usuario" FontWeight="Bold" FontSize="18" Margin="0 0 0 10"/>
+            <Label Name="lblAdminNombre" FontWeight="Bold" Foreground="DarkBlue" Margin="0 0 0 10"/>
+
+            <Button x:Name="Agregar" Content="Agregar Ruta" Click="BtnAgregarRuta_Click" Margin="0 5"/>
+            <Button x:Name="Editar" Content="Editar Ruta" Click="BtnEditarRuta_Click" Margin="0 5"/>
+            <Button x:Name="Eliminar" Content="Eliminar Ruta" Click="BtnEliminarRuta_Click" Margin="0 5"/>
+
+            <Separator Margin="0 10"/>
+            <Button Content="Iniciar Sesión Admin" Click="BtnLoginAdmin_Click" Margin="0 5"/>
+            <Button Content="Agregar Administrador" Click="BtnAgregarAdmin_Click" Margin="0 5"/>
+        </StackPanel>
+
+        <!-- Contenido derecho -->
+        <Grid Grid.Column="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Turismo Aventura Chiapas"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0 0 0 10" Grid.Row="1" VerticalAlignment="Center">
+                <Label Content="ID Ruta:" VerticalAlignment="Center" Margin="0 0 5 0"/>
+                <TextBox x:Name="txtIdRuta" Width="80" Margin="0 0 15 0" IsReadOnly="True"/>
+
+                <Label Content="Nombre Ruta:" VerticalAlignment="Center" Margin="0 0 5 0"/>
+                <TextBox x:Name="txtNombreRuta" Width="150" Margin="0 0 15 0"/>
+
+                <Label Content="ID Operadora:" VerticalAlignment="Center" Margin="0 0 5 0"/>
+                <TextBox x:Name="txtIdOperadora" Width="100"/>
+            </StackPanel>
+
+            <!-- DataGrid actualizado -->
+            <DataGrid Name="dgOperadoras"
+                      AutoGenerateColumns="False"
+                      Grid.Row="2"
+                      Margin="0 0 0 10"
+                      SelectionChanged="dgOperadoras_SelectionChanged">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID Ruta" Binding="{Binding IdRuta}" />
+                    <DataGridTextColumn Header="Nombre Ruta" Binding="{Binding NombreRuta}" />
+                    <DataGridTextColumn Header="Origen" Binding="{Binding Origen}" />
+                    <DataGridTextColumn Header="Destino" Binding="{Binding Destino}" />
+                    <DataGridTextColumn Header="ID Operadora" Binding="{Binding IdOperadora}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

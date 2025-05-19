@@ -1,0 +1,108 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Colores como SolidColorBrush -->
+    <SolidColorBrush x:Key="ColorAzul" Color="#1e97b5"/>
+    <SolidColorBrush x:Key="ColorAreaTitulo" Color="White"/>
+    <SolidColorBrush x:Key="ColorGris" Color="#9c9b9b"/>
+    <SolidColorBrush x:Key="ColorContenido" Color="#d7d7d7"/>
+
+    <!-- TextBlock general -->
+    <Style TargetType="TextBlock">
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+    </Style>
+
+    <!-- Título -->
+    <Style x:Key="TituloTextBlock" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="Foreground" Value="{StaticResource ColorAzul}"/>
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+    </Style>
+
+    <!-- Subtítulo -->
+    <Style x:Key="SubTituloTextBlock" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="30"/>
+        <Setter Property="Foreground" Value="Gray"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+        <Setter Property="TextAlignment" Value="Center"/>
+    </Style>
+
+    <!-- Estilo para botones -->
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource ColorAzul}"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+        <Setter Property="Padding" Value="10,5"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="BorderBrush" Value="Transparent"/>
+        <Setter Property="Cursor" Value="Hand"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                            CornerRadius="5"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <!-- Efecto Hover -->
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="#1691b0"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!-- Estilo para DataGrid -->
+    <Style TargetType="DataGrid">
+        <Setter Property="FontFamily" Value="Century Gothic"/>
+        <Setter Property="FontSize" Value="13"/>
+        <Setter Property="RowBackground" Value="White"/>
+        <Setter Property="AlternatingRowBackground" Value="#f2f2f2"/>
+        <Setter Property="Background" Value="{StaticResource ColorContenido}"/>
+        <Setter Property="GridLinesVisibility" Value="Horizontal"/>
+        <Setter Property="HeadersVisibility" Value="Column"/>
+        <Setter Property="BorderBrush" Value="{StaticResource ColorGris}"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Margin" Value="10"/>
+        <Setter Property="AutoGenerateColumns" Value="True"/>
+        <Setter Property="SelectionMode" Value="Single"/>
+        <Setter Property="SelectionUnit" Value="FullRow"/>
+        <Setter Property="RowHeaderWidth" Value="0"/>
+    </Style>
+
+    <!-- Estilo para los encabezados del DataGrid -->
+    <Style TargetType="DataGridColumnHeader">
+        <Setter Property="Background" Value="{StaticResource ColorAzul}"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="FontSize" Value="14"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="Padding" Value="10,5"/>
+    </Style>
+
+    <!-- Estilo para la fila seleccionada -->
+    <Style TargetType="DataGridRow">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="ValidationErrorTemplate" Value="{x:Null}"/>
+        <Setter Property="Background" Value="White"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="#c2ebf9"/>
+                <Setter Property="Foreground" Value="Black"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+
+</ResourceDictionary>

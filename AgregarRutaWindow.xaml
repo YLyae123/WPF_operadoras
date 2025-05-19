@@ -1,0 +1,22 @@
+﻿<Window x:Class="Unach.Gastosdiarios.WPF.AgregarRutaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Agregar Ruta" Height="300" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <Label Content="Nombre de la Ruta"/>
+            <TextBox x:Name="txtNombreRuta"/>
+
+            <Label Content="Origen"/>
+            <TextBox x:Name="txtOrigen"/>
+
+            <Label Content="Destino"/>
+            <TextBox x:Name="txtDestino"/>
+
+            <Label Content="Operadora"/>
+            <ComboBox x:Name="cbOperadoras" DisplayMemberPath="Nombre" SelectedValuePath="Id"/>
+
+            <Button Content="Agregar" Click="BtnAgregar_Click" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
